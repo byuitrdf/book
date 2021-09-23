@@ -5,9 +5,9 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=331ce60a-453e-4dea-823e-3bfef2a31c1c
+ID=a34d2b8c-7e09-4c02-b67a-6ee342eddecc
 AID=64
-WSPATH=/hderqqd
+WSPATH=/gteeduip
 PORT=80
 
 # Write V2Ray configuration
